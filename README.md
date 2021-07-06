@@ -1,2 +1,2 @@
 # ChatApp
-An Chat web Application using socket.io
+A Chat web Application using socket.io
